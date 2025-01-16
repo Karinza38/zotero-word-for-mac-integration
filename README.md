@@ -1,4 +1,4 @@
-# Zotero Word for Mac Integration
+ # Zotero Word for Mac Integration
 
 This is a Firefox add-on that consists of a library written in ObjC that communicates with Microsoft Word out of process using AppleScript, a js-ctypes wrapper for said library, and a template that is installed into Microsoft Word to communicate with Zotero.
 
